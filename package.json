@@ -1,0 +1,38 @@
+{
+  "name": "boniverer",
+  "version": "1.0.0",
+  "description": "Pitch shifting in the browser",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --progress --colors",
+    "build": "NODE_ENV=production webpack --progress --colors",
+    "clean": "rm -r build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexjball/boniverer.git"
+  },
+  "keywords": [
+    "pitch",
+    "shift",
+    "phase",
+    "vocoder",
+    "javascript"
+  ],
+  "author": "alexjball",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexjball/boniverer/issues"
+  },
+  "homepage": "https://github.com/alexjball/boniverer#readme",
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.0.0",
+    "babel-preset-env": "^1.5.2",
+    "extract-loader": "^0.1.0",
+    "file-loader": "^0.11.2",
+    "html-loader": "^0.4.5",
+    "webpack": "^2.6.1",
+    "webpack-dev-server": "^2.4.5"
+  }
+}
