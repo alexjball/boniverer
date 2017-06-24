@@ -1,6 +1,6 @@
-# boniverer
+# Webpack Base Project
 
-Pitch shifting in the browser
+Simply configured directory for client-side demos
 
 ## Setup, Building, and Running
 
