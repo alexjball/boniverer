@@ -31,3 +31,11 @@ Start grip in this directory, which starts a server that updates on file changes
 `grip`
 
 Grip supports GitHub-flavored Markdown.
+
+## Creating a New Project
+
+If you're not me, you can fork this repo.
+
+You can't fork your own repos from GitHub, so note to self about how to make a copy of this repo:
+
+http://www.tilcode.com/fork-your-own-repo-on-github/
